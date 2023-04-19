@@ -1,6 +1,6 @@
 # Meesterproef Cases 2023 @ Minor Web Design & Development
 
-[Accessibility Tool](https://github.com/cmda-minor-web-cases/accessibility-tool)
+[Accessibility Tool](https://github.com/cmda-minor-web-cases/accessibility-tool)   
 [De Slimme Regenton](https://github.com/cmda-minor-web-cases/de-slimme-regenton)  
 [Hitloop](https://github.com/cmda-minor-web-cases/hitloop)   
 [Laagdrempelig Zoeken](https://github.com/cmda-minor-web-cases/laagdrempelig-zoeken)  
