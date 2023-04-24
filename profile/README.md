@@ -2,7 +2,7 @@
 
 [Accessibility Tool](https://github.com/cmda-minor-web-cases/accessibility-tool)   
 [De Slimme Regenton](https://github.com/cmda-minor-web-cases/de-slimme-regenton)   
-[Growth Stroming](https://github.com/cmda-minor-web-cases/growth-storming)  
+[Crowd Stroming](https://github.com/cmda-minor-web-cases/crowd-storming)  
 [Hitloop](https://github.com/cmda-minor-web-cases/hitloop)   
 [Laagdrempelig Zoeken](https://github.com/cmda-minor-web-cases/laagdrempelig-zoeken)  
 [Platform Intimiteit](https://github.com/cmda-minor-web-cases/platform-intimiteit)   
