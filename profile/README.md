@@ -1,6 +1,6 @@
 # Meesterproef Cases 2023 @ Minor Web Design & Development
 
-[Accessibility Tool](https://github.com/cmda-minor-web-cases/accessibility-tool)   
+[Appclusive Tool](https://github.com/cmda-minor-web-cases/appclusive)   
 [bRAIN](https://github.com/cmda-minor-web-cases/bRAIN)   
 [Crowd Storming](https://github.com/cmda-minor-web-cases/crowd-storming)  
 [Hitloop](https://github.com/cmda-minor-web-cases/hitloop)   
